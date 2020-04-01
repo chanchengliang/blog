@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>notes on 老杯人生碎碎唸</title>
-    <link>https://chanchengliang.github.io/blog.github.io/en/tag/notes/</link>
+    <link>https://www.bigheadrd.com/en/tag/notes/</link>
     <description>Recent content in notes on 老杯人生碎碎唸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 04 Mar 2018 16:01:23 +0800</lastBuildDate>
     
-	<atom:link href="https://chanchengliang.github.io/blog.github.io/en/tag/notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.bigheadrd.com/en/tag/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Note 2</title>
-      <link>https://chanchengliang.github.io/blog.github.io/en/2018/03/04/note-2/</link>
+      <link>https://www.bigheadrd.com/en/2018/03/04/note-2/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://chanchengliang.github.io/blog.github.io/en/2018/03/04/note-2/</guid>
+      <guid>https://www.bigheadrd.com/en/2018/03/04/note-2/</guid>
       <description>This is a simple note.</description>
     </item>
     
     <item>
       <title>Note 1</title>
-      <link>https://chanchengliang.github.io/blog.github.io/en/2018/03/03/note-1/</link>
+      <link>https://www.bigheadrd.com/en/2018/03/03/note-1/</link>
       <pubDate>Sat, 03 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>https://chanchengliang.github.io/blog.github.io/en/2018/03/03/note-1/</guid>
+      <guid>https://www.bigheadrd.com/en/2018/03/03/note-1/</guid>
       <description>This is a simple note.</description>
     </item>
     
